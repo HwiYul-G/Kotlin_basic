@@ -1,5 +1,4 @@
 /*
-302p - 310p
     내부 클래스(inner class) = 중첩 클래스(nested class)
 */
 
